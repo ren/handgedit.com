@@ -1,0 +1,38 @@
+a:link {}
+a:over {}
+a:visited {}
+a:hover {}
+a {}
+
+body{font: normal 62.5% helvetica, arial, verdana, sans-serif; color:#5a5a5a;}
+
+h1 {margin:0; padding:0; font-size: 3em; font-weight: normal;}
+h2 {margin:.6em 0 .3em 0; padding:0; font-size: 2em; line-height:1.5; font-weight: normal;}
+h3 {margin:1em 0 .3em 0; padding:0; font-size: 1.3em; line-height:1.5; font-weight: bold;}
+h4 {}
+h5 {}
+h6 {}
+
+p {margin:0; padding:0; line-height:1.4;}
+i {font-style: italic;}
+
+div#container {width:80em; padding:0; margin:4em auto;}
+div#left {float:left; width:30em; padding:3em 0 0 0;}
+div#right {float:right; width:47em;}
+
+img#logo {float:right; height:5em;}
+div#content {margin-top:14em; font-size:1.1em;}
+
+img#books {margin:0; padding:0; border-bottom:1px solid #5a5a5a;}
+span.companyName {font-weight:bold;}
+
+ul.bookinfo {margin:.4em 2em; padding:0;}
+
+span.address {display:block;}
+span.address span.companyName {display:block; margin:1em 0 .5em 0; font-weight:bold; font-size:1em;}
+span.address span.street {display:block;}
+span.address span.cityStateZip {display:block; margin:0 0 .5em 0;}
+span.address span.email {display:block;}
+span.address span.phoneNumber {display:block;}
+
+div#footer {margin:3em 0; border-top: 1px solid #5a5a5a; text-align:right;}
